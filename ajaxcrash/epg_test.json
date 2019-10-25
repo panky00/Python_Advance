@@ -1,0 +1,335 @@
+[
+    {
+      "fvCEp": {
+        "attributes": {
+          "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:56:C7:F0", 
+          "lcOwn": "local", 
+          "vmmSrc": "", 
+          "modTs": "2018-08-22T07:49:25.705+02:00", 
+          "uid": "0", 
+          "contName": "", 
+          "id": "0", 
+          "idepdn": "", 
+          "name": "00:50:56:56:C7:F0", 
+          "mac": "00:50:56:56:C7:F0", 
+          "status": "modified", 
+          "lcC": "learned", 
+          "nameAlias": "", 
+          "encap": "vlan-1699", 
+          "mcastAddr": "not-applicable", 
+          "rn": "cep-00:50:56:56:C7:F0", 
+          "childAction": "", 
+          "ip": "0.0.0.0", 
+          "monPolDn": "uni/tn-common/monepg-default", 
+          "uuid": ""
+        }, 
+        "children": [
+          {
+            "fvRsCEpToPathEp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:56:C7:F0/rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "lcOwn": "local", 
+                "tDn": "topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]", 
+                "rType": "mo", 
+                "stateQual": "none", 
+                "state": "formed", 
+                "tCl": "fabricAPathEp", 
+                "forceResolve": "yes", 
+                "status": "", 
+                "lcC": "learned", 
+                "modTs": "2018-08-22T07:49:25.705+02:00", 
+                "tType": "mo", 
+                "rn": "rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "childAction": ""
+              }
+            }
+          },
+          {
+            "fvIp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:6A:20:5B/ip-[11.129.63.27]", 
+                "lcOwn": "local", 
+                "addr": "11.129.63.27", 
+                "status": "", 
+                "monPolDn": "uni/tn-common/monepg-default", 
+                "modTs": "2018-08-22T11:02:27.042+02:00", 
+                "rn": "ip-[11.129.63.27]", 
+                "childAction": "", 
+                "uid": "0"
+              }
+            }
+          }
+        ]
+      }
+    },      
+    {
+      "fvCEp": {
+        "attributes": {
+          "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:5D:0D:1C", 
+          "lcOwn": "local", 
+          "vmmSrc": "", 
+          "modTs": "2018-08-22T07:49:45.794+02:00", 
+          "uid": "0", 
+          "contName": "", 
+          "id": "0", 
+          "idepdn": "", 
+          "name": "00:50:56:5D:0D:1C", 
+          "mac": "00:50:56:5D:0D:1C", 
+          "status": "modified", 
+          "lcC": "learned", 
+          "nameAlias": "", 
+          "encap": "vlan-1699", 
+          "mcastAddr": "not-applicable", 
+          "rn": "cep-00:50:56:5D:0D:1C", 
+          "childAction": "", 
+          "ip": "0.0.0.0", 
+          "monPolDn": "uni/tn-common/monepg-default", 
+          "uuid": ""
+        }, 
+        "children": [
+          {
+            "fvRsCEpToPathEp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:5D:0D:1C/rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "lcOwn": "local", 
+                "tDn": "topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]", 
+                "rType": "mo", 
+                "stateQual": "none", 
+                "state": "formed", 
+                "tCl": "fabricAPathEp", 
+                "forceResolve": "yes", 
+                "status": "", 
+                "lcC": "learned", 
+                "modTs": "2018-08-22T07:49:45.794+02:00", 
+                "tType": "mo", 
+                "rn": "rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "childAction": ""
+              }
+            }
+          },
+         {
+            "fvIp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:6A:20:5B/ip-[11.129.63.27]", 
+                "lcOwn": "local", 
+                "addr": "11.129.63.27", 
+                "status": "", 
+                "monPolDn": "uni/tn-common/monepg-default", 
+                "modTs": "2018-08-22T11:02:27.042+02:00", 
+                "rn": "ip-[11.129.63.27]", 
+                "childAction": "", 
+                "uid": "0"
+              }
+            }          
+          }
+        ] 
+      }
+    },        
+    {
+      "fvCEp": {
+        "attributes": {
+          "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:6A:20:5B", 
+          "lcOwn": "local", 
+          "vmmSrc": "", 
+          "modTs": "2018-08-22T11:02:27.042+02:00", 
+          "uid": "0", 
+          "contName": "", 
+          "id": "0", 
+          "idepdn": "", 
+          "name": "00:50:56:6A:20:5B", 
+          "mac": "00:50:56:6A:20:5B", 
+          "status": "modified", 
+          "lcC": "learned", 
+          "nameAlias": "", 
+          "encap": "vlan-1699", 
+          "mcastAddr": "not-applicable", 
+          "rn": "cep-00:50:56:6A:20:5B", 
+          "childAction": "", 
+          "ip": "11.129.63.27", 
+          "monPolDn": "uni/tn-common/monepg-default", 
+          "uuid": ""
+        }, 
+        "children": [
+          {
+            "fvRsCEpToPathEp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:6A:20:5B/rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "lcOwn": "local", 
+                "tDn": "topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]", 
+                "rType": "mo", 
+                "stateQual": "none", 
+                "state": "formed", 
+                "tCl": "fabricAPathEp", 
+                "forceResolve": "yes", 
+                "status": "", 
+                "lcC": "learned", 
+                "modTs": "2018-08-22T11:02:27.042+02:00", 
+                "tType": "mo", 
+                "rn": "rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "childAction": ""
+              }
+            }
+          }, 
+          {
+            "fvIp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:6A:20:5B/ip-[11.129.63.27]", 
+                "lcOwn": "local", 
+                "addr": "11.129.63.27", 
+                "status": "", 
+                "monPolDn": "uni/tn-common/monepg-default", 
+                "modTs": "2018-08-22T11:02:27.042+02:00", 
+                "rn": "ip-[11.129.63.27]", 
+                "childAction": "", 
+                "uid": "0"
+              }
+            }
+          }
+        ]
+      }
+    }, 
+    {
+      "fvCEp": {
+        "attributes": {
+          "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:5E:34:F1", 
+          "lcOwn": "local", 
+          "vmmSrc": "", 
+          "modTs": "2018-10-04T08:22:34.189+02:00", 
+          "uid": "0", 
+          "contName": "", 
+          "id": "0", 
+          "idepdn": "", 
+          "name": "00:50:56:5E:34:F1", 
+          "mac": "00:50:56:5E:34:F1", 
+          "status": "modified", 
+          "lcC": "learned", 
+          "nameAlias": "", 
+          "encap": "vlan-1699", 
+          "mcastAddr": "not-applicable", 
+          "rn": "cep-00:50:56:5E:34:F1", 
+          "childAction": "", 
+          "ip": "0.0.0.0", 
+          "monPolDn": "uni/tn-common/monepg-default", 
+          "uuid": ""
+        }, 
+        "children": [
+          {
+            "fvRsCEpToPathEp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EA1699-VMW_VMO/cep-00:50:56:5E:34:F1/rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "lcOwn": "local", 
+                "tDn": "topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]", 
+                "rType": "mo", 
+                "stateQual": "none", 
+                "state": "formed", 
+                "tCl": "fabricAPathEp", 
+                "forceResolve": "yes", 
+                "status": "", 
+                "lcC": "learned", 
+                "modTs": "2018-10-04T08:22:34.189+02:00", 
+                "tType": "mo", 
+                "rn": "rscEpToPathEp-[topology/pod-1/protpaths-1104-1204/pathep-[L2OUT-IBE2-INT-POLICY]]", 
+                "childAction": ""
+              }
+            }
+          }
+        ]
+      }
+    }, 
+    {
+      "fvCEp": {
+        "attributes": {
+          "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EPG-LEG-VL1299/cep-00:50:56:57:1E:F1", 
+          "lcOwn": "local", 
+          "vmmSrc": "", 
+          "modTs": "2019-05-02T02:20:33.463+02:00", 
+          "uid": "0", 
+          "contName": "", 
+          "id": "0", 
+          "idepdn": "", 
+          "name": "00:50:56:57:1E:F1", 
+          "mac": "00:50:56:57:1E:F1", 
+          "status": "modified", 
+          "lcC": "learned", 
+          "nameAlias": "", 
+          "encap": "vlan-1299", 
+          "mcastAddr": "not-applicable", 
+          "rn": "cep-00:50:56:57:1E:F1", 
+          "childAction": "", 
+          "ip": "0.0.0.0", 
+          "monPolDn": "uni/tn-common/monepg-default", 
+          "uuid": ""
+        }, 
+        "children": [
+          {
+            "fvRsCEpToPathEp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EPG-LEG-VL1299/cep-00:50:56:57:1E:F1/rscEpToPathEp-[topology/pod-1/protpaths-1105-1205/pathep-[L2-OUT-HBE3-INT-POLICY-GROUP]]", 
+                "lcOwn": "local", 
+                "tDn": "topology/pod-1/protpaths-1105-1205/pathep-[L2-OUT-HBE3-INT-POLICY-GROUP]", 
+                "rType": "mo", 
+                "stateQual": "none", 
+                "state": "formed", 
+                "tCl": "fabricAPathEp", 
+                "forceResolve": "yes", 
+                "status": "", 
+                "lcC": "learned", 
+                "modTs": "2019-05-02T02:20:33.463+02:00", 
+                "tType": "mo", 
+                "rn": "rscEpToPathEp-[topology/pod-1/protpaths-1105-1205/pathep-[L2-OUT-HBE3-INT-POLICY-GROUP]]", 
+                "childAction": ""
+              }
+            }
+          }
+        ]
+      }
+    }, 
+    {
+      "fvCEp": {
+        "attributes": {
+          "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EPG-LEG-VL1099/cep-00:50:56:5D:57:10", 
+          "lcOwn": "local", 
+          "vmmSrc": "", 
+          "modTs": "2019-05-10T02:11:06.438+02:00", 
+          "uid": "0", 
+          "contName": "", 
+          "id": "0", 
+          "idepdn": "", 
+          "name": "00:50:56:5D:57:10", 
+          "mac": "00:50:56:5D:57:10", 
+          "status": "modified", 
+          "lcC": "learned", 
+          "nameAlias": "", 
+          "encap": "vlan-1099", 
+          "mcastAddr": "not-applicable", 
+          "rn": "cep-00:50:56:5D:57:10", 
+          "childAction": "", 
+          "ip": "0.0.0.0", 
+          "monPolDn": "uni/tn-common/monepg-default", 
+          "uuid": ""
+        }, 
+        "children": [
+          {
+            "fvRsCEpToPathEp": {
+              "attributes": {
+                "dn": "uni/tn-MDOM/ap-MDOM-APP-PROFIL/epg-EPG-LEG-VL1099/cep-00:50:56:5D:57:10/rscEpToPathEp-[topology/pod-1/protpaths-1105-1205/pathep-[L2-OUT-HBE1-INT-POLICY-GROUP]]", 
+                "lcOwn": "local", 
+                "tDn": "topology/pod-1/protpaths-1105-1205/pathep-[L2-OUT-HBE1-INT-POLICY-GROUP]", 
+                "rType": "mo", 
+                "stateQual": "none", 
+                "state": "formed", 
+                "tCl": "fabricAPathEp", 
+                "forceResolve": "yes", 
+                "status": "", 
+                "lcC": "learned", 
+                "modTs": "2019-05-10T02:11:06.438+02:00", 
+                "tType": "mo", 
+                "rn": "rscEpToPathEp-[topology/pod-1/protpaths-1105-1205/pathep-[L2-OUT-HBE1-INT-POLICY-GROUP]]", 
+                "childAction": ""
+              }
+            }
+          }
+        ]
+      }
+    }     
+  ] 
